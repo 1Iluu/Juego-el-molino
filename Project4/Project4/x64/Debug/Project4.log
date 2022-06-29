@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\javic\source\repos\Project4\Project4\Source.cpp(1246,7): warning C4101: 'yu': variable local sin referencia
+C:\Users\javic\source\repos\Project4\Project4\Source.cpp(1809,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\javic\source\repos\Project4\Project4\Source.cpp(476): warning C4715: 'ocupadoeliminar': no todas las rutas de acceso de control devuelven un valor
+  Project4.vcxproj -> C:\Users\javic\source\repos\Project4\x64\Debug\Project4.exe
